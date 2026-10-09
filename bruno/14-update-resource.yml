@@ -1,0 +1,6 @@
+info:
+  name: update 14
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/orders-bruno/14
